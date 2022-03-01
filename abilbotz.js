@@ -67,13 +67,13 @@ const simple = require('./lib/simple.js')
 
      //---Settings---//
 
-let botname = '_｢ AbilBotz 0.2 ｣ 冬_' //NAMA BOT
-let lolkey = 'Modal' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di api.lolhuman.xzy Untuk Mendapatkan Api Gratis
-let zekskey = 'Modal' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '_｢ AbilGanz ✘ ｣_' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let botname = '_｢ LeoBotz ｣ 冬_' //NAMA BOT
+let lolkey = '8b0351b88e7280c06f33c5bf' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di api.lolhuman.xzy Untuk Mendapatkan Api Gratis
+let zekskey = 'HKIbTRnCb5D1DYOMspP1KYyHvjO' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
+let ownername = '_｢ YogzAja ｣_' //NAMA OWNER
+let owner = '628889210887' // NOMOR OWNER
 let symbol = '*冬*'
-let faketeks = `*_｢ AbilBotz 0.2 ｣ 冬_*` 
+let faketeks = `*_｢ LeoBotz ｣ 冬_*` 
 
      //---Donasi---//
 
@@ -876,10 +876,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │❏  BUAT MAENAN 
 ╰────
 ╭─[ *MINAT CHAT* ]
-│❏ wa.me/6282293295376?text=sewa+bot
-╰────
-╭─[ *TES BOT? PC OWNER* ]
-│❏  Wa.me/6282293295376
+│❏ wa.me/628889210887?text=sewa+bot
 ╰────
 ╭─[ *PAYMENT* ]
 │❏  GOPAY
